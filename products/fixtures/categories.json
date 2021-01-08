@@ -1,0 +1,35 @@
+[
+  {
+    "pk": 1,
+    "model": "products.category",
+    "fields": {
+      "name": "black_tea",
+      "friendly_name": "Black Tea"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.category",
+    "fields": {
+      "name": "green_tea",
+      "friendly_name": "Green Tea"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.category",
+    "fields": {
+      "name": "herbal_tea",
+      "friendly_name": "Herbal Tea"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.category",
+    "fields": {
+      "name": "cold_brew",
+      "friendly_name": "Cold Brew"
+    }
+  }
+  
+]

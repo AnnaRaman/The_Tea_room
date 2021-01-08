@@ -1,0 +1,592 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001340155",
+      "name": "Spiced Pear",
+      "description": "A warming, sweet and spicy fruit based tea",
+      "price": 3.99,
+      "category": 6,
+      "rating": 4.6,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0709201205510679M.jpg"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001600425",
+      "name": "Chocolate Organge",
+      "description": "A classic combination of chocolate and orange - sweet and indulgent.
+",
+      "price": 58.99,
+      "category": 4,
+      "rating": 4.6,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0113201617034987M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0113201617034987M.jpg"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001730010",
+      "name": "Gingerbread",
+      "description": "All the loveliness of gingerbread men in a tea - incredible!",
+      "price": 205.99,
+      "category": 2,
+      "rating": 4.7,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP1230201417013175M.jpg"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001890157",
+      "name": "Everyday Brew",
+      "description": "A top quality version of the "regular tea", although there's nothing regular here, drink with milk morning, noon and night.",
+      "price": 169.99,
+      "category": 7,
+      "rating": 3,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0716201503423610M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0716201503423610M.jpg"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002111605",
+      "name": "Peppermint",
+      "description": "The mintiest mint of all time, this is a stand out peppermint. A real favourite amongst teapigs."
+      "price": 232.99,
+      "category": 7,
+      "rating": 5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP1115201210371197C.jpg"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002260206",
+      "name": "Peach and Mango cold brew",
+      "description": "Pep up your water with this naturally sweet and refreshing cold brew infusion",
+      "price": 30.99,
+      "category": 9,
+      "rating": 4.7,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0624201520422666C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0624201520422666C.jpg"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002440521",
+      "name": "Matcha Green",
+      "description": "We love it as a latte, a green latte with added super powers.",
+      "price": 59,
+      "category": 4,
+      "rating": 4.4,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0226201317034754M.jpg"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002601115",
+      "name": "Lychee and Roase cold brew",
+      "description": "Lychee and rose an exotic combination to make your water way more lively.",
+      "price": 36.99,
+      "category": 7,
+      "rating": 4.5,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0926201317071162M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0926201317071162M.jpg"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002690715",
+      "name": "Mao Feng Green",
+      "description": "Regular green tea can be disappointing, this is a light and pure green tea without the disappointment.",
+      "price": 169.99,
+      "category": 2,
+      "rating": 4.7,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1020201517025390M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP1020201517025390M.jpg"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002701115",
+      "name": "Cucumber and Apple cold brew",
+      "description": "Water has never tasted so good - a cooling refreshing blend to pep up your cold water.",
+      "price": 33.99,
+      "category": 7,
+      "rating": 4.4,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0418201317011949M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0418201317011949M.jpg"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002761055",
+      "name": "Darjeeling Earl Grey",
+      "description": "A light bergamot blended with the finest darjeeling.",
+      "price": 29.99,
+      "category": 9,
+      "rating": 3,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81B0C2D9M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "0900631B81B0C2D9M.jpg"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002820069",
+      "name": "Coconut",
+      "description": "A dazzling blend of lemongrass, coconut and green tea.",
+      "price": 19.99,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0510201317010521M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0510201317010521M.jpg"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002820147",
+      "name": "Chamomile",
+      "description": "Whole chamomile flowers, so pure, so sweet nothing like a regular chamomile.",
+      "price": 20,
+      "category": 9,
+      "rating": 3.2,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0430201405053680M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0430201405053680M.jpg"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002910572",
+      "name": "Liquorice and Peppermint",
+      "description": " This is a super popular tea, one of our most highly regarded and we absolutely love it!",
+      "price": 26.99,
+      "category": 5,
+      "rating": 4.7,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81C9387BM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "0900631B81C9387BM.jpg"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002990740",
+      "name": "Honeybush and Rooibos",
+      "description": "A very popular blend of honeybush and rooibos, two nutrient rich South African plants. Great with or without milk.",
+      "price": 48.99,
+      "category": 5,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1029201317111469M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP1029201317111469M.jpg"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003050248",
+      "name": "Matcha Tumeric Latte",
+      "description": "Perfect for a tumeric latte with added super powers.",
+      "price": 65.99,
+      "category": 6,
+      "rating": 4.4,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0918201520303373C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0918201520303373C.jpg"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003070787",
+      "name": "Rhubarb and Ginger",
+      "description": "Rhubarb lovers rejoice, this rhubarb and ginger combination is tart and refreshing",
+      "price": 33.99,
+      "category": 5,
+      "rating": 4.4,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1119201520340305C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP1119201520340305C.jpg"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003090182",
+      "name": "Earl Grey",
+      "description": "A blend of strong english breakfast, darjeeling and bergamot - to be drunk with milk.",
+      "price": 59.99,
+      "category": 2,
+      "rating": 4.8,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072274M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0807201317072274M.jpg"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003090186",
+      "name": "Spiced Winter Red",
+      "description": "Rooibos is an excellent caffeine free base to cinamon, cloves and orange peel. Lovely with or without milk.",
+      "price": 60.99,
+      "category": 2,
+      "rating": 5,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072924M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0807201317072924M.jpg"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003161326",
+      "name": "Silver Tips White",
+      "description": "A very light and pure tea from Fujian China - this blend is a true delicacy.",
+      "price": 20.99,
+      "category": 7,
+      "rating": 4.7,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0821201317103183M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0821201317103183M.jpg"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003230723",
+      "name": "Lemon and Ginger",
+      "description": "Pure lemongrass, lemon peel and ginger root make an incredible natural blend.",
+      "price": 60.99,
+      "category": 7,
+      "rating": 4.3,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/0900631B81D676AEM.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "0900631B81D676AEM.jpg"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003270936",
+      "name": "Beetroot and Hibiscus",
+      "description": "Hibiscus, fruit and beetroot: a great tasting energy boost.",
+      "price": 76.99,
+      "category": 4,
+      "rating": 5,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0917201317033820M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0917201317033820M.jpg"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003360384",
+      "name": "Superfruit",
+      "description": "A super fruity blend which actually tastes as great as it smel",
+      "price": 29.99,
+      "category": 9,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0927201317061305M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0927201317061305M.jpg"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003440111",
+      "name": "Apple and Cinnamon",
+      "description": "Sweet juicy apple blended with cinamon spice, a bit of a treat.",
+      "price": 82,
+      "category": 2,
+      "rating": 3.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1023201317051585M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP1023201317051585M.jpg"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003540313",
+      "name": "Rooibos creme caramel",
+      "description": "Nutty rooibos with a hint of sweet caramel, can be drunk with milk, latte style.",
+      "price": 106.99,
+      "category": 9,
+      "rating": 3,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1108201317050996M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP1108201317050996M.jpg"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003560513",
+      "name": "Fennel and Liquorice",
+      "description": "Cleansing fennel with sweet liquorice, perfect after dinner.",
+      "price": 241.99,
+      "category": 7,
+      "rating": 4.4,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0219201502115503C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0219201502115503C.jpg"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003560948",
+      "name": "Matcha Cocoa Latte",
+      "description": "Perfect for a matcha latte with a hint of cocoa.",
+      "price": 338.99,
+      "category": 7,
+      "rating": 5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0610201317080834M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0610201317080834M.jpg"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003570628",
+      "name": "Jasmine",
+      "description": "TThere's no returning to regular jasmine once you've enjoyed these jasmine pearls.",
+      "price": 53.99,
+      "category": 4,
+      "rating": 4.3,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/0900631B818ABCB9M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "0900631B818ABCB9M.jpg"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003620308",
+      "name": "Chai",
+      "description": "Strong and spicy, an all natural chai, great with lots of milk - latte style.",
+      "price": 31.99,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0422201517022488M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0422201517022488M.jpg"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003690115",
+      "name": "Chilli Chai",
+      "description": "Strong and spicy with a chilli kick, great with lots of milk - a latte with spice and heat!",
+      "price": 72.99,
+      "category": 2,
+      "rating": 5,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0113201417050002M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0113201417050002M.jpg"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003690116",
+      "name": "Chocolate Flake",
+      "description": "A black tea with a hint of dark chocolate. Perfect with milk for a little treat",
+      "price": 69.99,
+      "category": 3,
+      "rating": 4,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0213201417022274M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0213201417022274M.jpg"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003780391",
+      "name": "Chocolate and Mint",
+      "description": "Dark chocolate and cool mint, a herbal treat without the calories.",
+      "price": 35.99,
+      "category": 9,
+      "rating": 4.8,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1028201517024563M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP1028201517024563M.jpg"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003790542",
+      "name": "Darjeeling",
+      "description": "A very fine tea from Darjeeling in the foothills of the Himalayas with buckets of sophistication.",
+      "price": 58.99,
+      "category": 2,
+      "rating": 4.5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0422201617033665M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0422201617033665M.jpg"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003831225",
+      "name": "Sweet Ginger",
+      "description": "Ginger lovers we salute you with this naturally sweet ginger blend.",
+      "price": 93.99,
+      "category": 5,
+      "rating": 4.5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0915201413433903C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0915201413433903C.jpg"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003861402",
+      "name": "Green Tea with Mint",
+      "description": "If pure green tea is not for you this combination of pure mint leaves and green tea is for you.",
+      "price": 50.99,
+      "category": 6,
+      "rating": 4.7,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0430201405113681M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0430201405113681M.jpg"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003910638",
+      "name": "Popcorn",
+      "description": "Sugary puffs in a cup, this is a delightful Japanese treat.",
+      "price": 23.99,
+      "category": 4,
+      "rating": 4.6,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0401201417083996M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0401201417083996M.jpg"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003950574",
+      "name": "Lemongrass",
+      "description": "Nothing's cleaner or more pure. This pure lemongrass is all citrus, but with zero flavourings!",
+      "price": 21.99,
+      "category": 2,
+      "rating": 4,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0828201517030241M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0828201517030241M.jpg"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003950576",
+      "name": "Tung Ting Oolong",
+      "description": "An amazing tea which everyone should try, drink without milk - it's incredible!",
+      "price": 60.99,
+      "category": 2,
+      "rating": 4.5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0403201417141773M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0403201417141773M.jpg"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003960062",
+      "name": "Yerba Mate",
+      "description": "A smokey green South American herb which is thought to boost your energy.",
+      "price": 41.99,
+      "category": 3,
+      "rating": 3.8,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0715201417203832M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0715201417203832M.jpg"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003960682",
+      "name": "Elderberry & Echinacea",
+      "description": "A rich embrace tingling with fruity warmth",
+      "price": 31.99,
+      "category": 7,
+      "rating": 5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0430201405213832M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0430201405213832M.jpg"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003960775",
+      "name": "Vanilla Chai",
+      "description": "A caffeine-free lift flushed with cinnamon warmth",
+      "price": 41.99,
+      "category": 7,
+      "rating": 3,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0430201405232442M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0430201405232442M.jpg"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003990736",
+      "name": "Tumeric Gold",
+      "description": "A golden blend of the finest tumreic, lemon fruit and green tea",
+      "price": 118.99,
+      "category": 7,
+      "rating": 4.7,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0519201417080443M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0519201417080443M.jpg"
+    }
+  }
+ 
+]
