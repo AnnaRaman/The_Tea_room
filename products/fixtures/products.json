@@ -9,8 +9,8 @@
       "price": 3.99,
       "category": 1,
       "rating": 4.6,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0709201205510679M.jpg"
+      "image_url": "https://images.pexels.com/photos/905485/pexels-photo-905485.jpeg?cs=srgb&dl=pexels-julia-sakelli-905485.jpg&fm=jpg",
+      "image": "pexels-julia-sakelli-905485.jpg"
     }
   },
   {
@@ -23,8 +23,8 @@
       "price": 2.99,
       "category": 2,
       "rating": 4.6,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0105201617024447M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0113201617034987M.jpg"
+      "image_url": "https://images.pexels.com/photos/3522560/pexels-photo-3522560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "chocolate_orange.jpeg"
     }
   },
   {
@@ -37,8 +37,8 @@
       "price": 205.99,
       "category": 3,
       "rating": 4.7,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1230201417013175M.jpg"
+      "image_url": "https://images.pexels.com/photos/3750709/pexels-photo-3750709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260p",
+      "image": "gingerbread.jpg"
     }
   },
   {
@@ -51,8 +51,8 @@
       "price": 169.99,
       "category": 4,
       "rating": 3,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0716201503423610M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0716201503423610M.jpg"
+      "image_url": "https://images.pexels.com/photos/193034/pexels-photo-193034.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "everyday_brew.jpg"
     }
   },
   {
@@ -65,8 +65,8 @@
       "price": 232.99,
       "category": 4,
       "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1115201210371197C.jpg"
+      "image_url": "https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg?cs=srgb&dl=pexels-mareefe-1417945.jpg&fm=jpg",
+      "image": "peppermint.jpg"
     }
   },
   {
@@ -79,8 +79,8 @@
       "price": 30.99,
       "category": 3,
       "rating": 4.7,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0624201520422666C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0624201520422666C.jpg"
+      "image_url": "https://images.pexels.com/photos/518591/pexels-photo-518591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "peach.jpg"
     }
   },
   {
@@ -93,8 +93,8 @@
       "price": 59,
       "category": 2,
       "rating": 4.4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0226201317034754M.jpg"
+      "image_url": "https://images.pexels.com/photos/3689177/pexels-photo-3689177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "matcha.jpg"
     }
   },
   {
@@ -102,13 +102,13 @@
     "model": "products.product",
     "fields": {
       "sku": "pp5002601115",
-      "name": "Lychee and Roase cold brew",
+      "name": "Lychee and Rose cold brew",
       "description": "Lychee and rose an exotic combination to make your water way more lively.",
       "price": 36.99,
       "category": 2,
       "rating": 4.5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0926201317071162M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0926201317071162M.jpg"
+      "image_url": "https://images.pexels.com/photos/914241/pexels-photo-914241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=12602",
+      "image": "lychee_rose.jpg"
     }
   },
   {
@@ -121,8 +121,8 @@
       "price": 169.99,
       "category": 1,
       "rating": 4.7,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1020201517025390M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1020201517025390M.jpg"
+      "image_url": "https://images.pexels.com/photos/461428/pexels-photo-461428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "mao_feng.jpg"
     }
   },
   {
@@ -135,8 +135,8 @@
       "price": 33.99,
       "category": 3,
       "rating": 4.4,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0418201317011949M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0418201317011949M.jpg"
+      "image_url": "https://images.pexels.com/photos/2103955/pexels-photo-2103955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "cucumber.jpg"
     }
   },
   {
@@ -149,8 +149,8 @@
       "price": 29.99,
       "category": 4,
       "rating": 3,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81B0C2D9M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "0900631B81B0C2D9M.jpg"
+      "image_url": "https://images.pexels.com/photos/2659387/pexels-photo-2659387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=12602",
+      "image": "darjeeling_earl.jpg"
     }
   },
   {
@@ -163,8 +163,8 @@
       "price": 19.99,
       "category": 1,
       "rating": 4.6,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0510201317010521M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0510201317010521M.jpg"
+      "image_url": "https://images.pexels.com/photos/3604314/pexels-photo-3604314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "coconut.jpg"
     }
   },
   {
@@ -177,8 +177,8 @@
       "price": 20,
       "category": 4,
       "rating": 3.2,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0430201405053680M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0430201405053680M.jpg"
+      "image_url": "https://images.pexels.com/photos/4974504/pexels-photo-4974504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "chamomile.jpg"
     }
   },
   {
@@ -191,8 +191,8 @@
       "price": 26.99,
       "category": 3,
       "rating": 4.7,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81C9387BM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "0900631B81C9387BM.jpg"
+      "image_url": "https://images.pexels.com/photos/1493080/pexels-photo-1493080.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "liquorice.jpg"
     }
   },
   {
@@ -205,8 +205,8 @@
       "price": 48.99,
       "category": 2,
       "rating": 4.8,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1029201317111469M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1029201317111469M.jpg"
+      "image_url": "https://browser-f531606a-d553-4179-8df5-823ae91b45ca.ws-eu03.gitpod.io/workspace/The_Tea_room/media/rooibos.jpg",
+      "image": "rooibos.jpg"
     }
   },
   {
@@ -219,8 +219,8 @@
       "price": 65.99,
       "category": 1,
       "rating": 4.4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0918201520303373C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0918201520303373C.jpg"
+      "image_url": "https://images.pexels.com/photos/5168519/pexels-photo-5168519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "matcha_tumeric.jpg"
     }
   },
   {
@@ -233,8 +233,8 @@
       "price": 33.99,
       "category": 2,
       "rating": 4.4,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1119201520340305C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1119201520340305C.jpg"
+      "image_url": "https://images.pexels.com/photos/34780/mug-raspberries-berry-tea.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "rhubarb.jpg"
     }
   },
   {
@@ -247,8 +247,8 @@
       "price": 59.99,
       "category": 2,
       "rating": 4.8,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072274M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0807201317072274M.jpg"
+      "image_url": "https://images.pexels.com/photos/4974543/pexels-photo-4974543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "earlgrey.jpg"
     }
   },
   {
@@ -261,8 +261,8 @@
       "price": 60.99,
       "category": 3,
       "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072924M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0807201317072924M.jpg"
+      "image_url": "https://images.pexels.com/photos/259955/pexels-photo-259955.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "spiced.jpg"
     }
   },
   {
@@ -275,8 +275,8 @@
       "price": 20.99,
       "category": 1,
       "rating": 4.7,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0821201317103183M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0821201317103183M.jpg"
+      "image_url": "https://images.pexels.com/photos/1758279/pexels-photo-1758279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "silver.jpg"
     }
   },
   {
@@ -289,8 +289,8 @@
       "price": 60.99,
       "category": 1,
       "rating": 4.3,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/0900631B81D676AEM.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "0900631B81D676AEM.jpg"
+      "image_url": "https://images.pexels.com/photos/1409439/pexels-photo-1409439.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "image": "lemon_ginger.jpg"
     }
   },
   {
@@ -303,8 +303,8 @@
       "price": 76.99,
       "category": 4,
       "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0917201317033820M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0917201317033820M.jpg"
+      "image_url": "https://images.pexels.com/photos/341514/pexels-photo-341514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "beetroot.jpg"
     }
   },
   {
@@ -317,8 +317,8 @@
       "price": 29.99,
       "category": 3,
       "rating": 4.8,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0927201317061305M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0927201317061305M.jpg"
+      "image_url": "https://images.pexels.com/photos/1833327/pexels-photo-1833327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "superfruit.jpg"
     }
   },
   {
@@ -327,12 +327,12 @@
     "fields": {
       "sku": "pp5003440111",
       "name": "Apple and Cinnamon",
-      "description": "Sweet juicy apple blended with cinamon spice, a bit of a treat.",
+      "description": "Sweet juicy apple blended with cinnamon spice, a bit of a treat.",
       "price": 82,
       "category": 2,
       "rating": 3.8,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1023201317051585M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1023201317051585M.jpg"
+      "image_url": "https://images.pexels.com/photos/3338676/pexels-photo-3338676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "apple_cinnamon.jpg"
     }
   },
   {
@@ -345,8 +345,8 @@
       "price": 106.99,
       "category": 1,
       "rating": 3,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1108201317050996M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1108201317050996M.jpg"
+      "image_url": "https://images.pexels.com/photos/5946616/pexels-photo-5946616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "caramel.jpg"
     }
   },
   {
@@ -373,8 +373,8 @@
       "price": 338.99,
       "category": 1,
       "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0610201317080834M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0610201317080834M.jpg"
+      "image_url": "https://images.pexels.com/photos/5946637/pexels-photo-5946637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "matcha_cocoa.jpg"
     }
   },
   {
@@ -387,8 +387,8 @@
       "price": 53.99,
       "category": 4,
       "rating": 4.3,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/0900631B818ABCB9M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "0900631B818ABCB9M.jpg"
+      "image_url": "https://images.pexels.com/photos/3123792/pexels-photo-3123792.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "jasmine.jpg"
     }
   },
   {
@@ -401,8 +401,8 @@
       "price": 31.99,
       "category": 2,
       "rating": 4.6,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0422201517022488M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0422201517022488M.jpg"
+      "image_url": "https://images.pexels.com/photos/2262832/pexels-photo-2262832.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "image": "chai.jpg"
     }
   },
   {
@@ -415,8 +415,8 @@
       "price": 72.99,
       "category": 2,
       "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0113201417050002M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0113201417050002M.jpg"
+      "image_url": "https://images.pexels.com/photos/3864097/pexels-photo-3864097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "chilli_chai.jpg"
     }
   },
   {
@@ -429,8 +429,8 @@
       "price": 69.99,
       "category": 3,
       "rating": 4,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0213201417022274M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0213201417022274M.jpg"
+      "image_url": "https://images.pexels.com/photos/2171643/pexels-photo-2171643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "chocolate_tea.jpg"
     }
   },
   {
@@ -443,8 +443,8 @@
       "price": 35.99,
       "category": 3,
       "rating": 4.8,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1028201517024563M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1028201517024563M.jpg"
+      "image_url": "https://images.pexels.com/photos/3166840/pexels-photo-3166840.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "image": "chocolate_mint.jpg"
     }
   },
   {
@@ -457,8 +457,8 @@
       "price": 58.99,
       "category": 2,
       "rating": 4.5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0422201617033665M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0422201617033665M.jpg"
+      "image_url": "https://images.pexels.com/photos/3936375/pexels-photo-3936375.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "image": "darjeeling.jpg"
     }
   },
   {
@@ -471,8 +471,8 @@
       "price": 93.99,
       "category": 4,
       "rating": 4.5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0915201413433903C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0915201413433903C.jpg"
+      "image_url": "https://images.pexels.com/photos/814264/pexels-photo-814264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "ginger.jpg"
     }
   },
   {
@@ -485,8 +485,8 @@
       "price": 50.99,
       "category": 4,
       "rating": 4.7,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0430201405113681M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0430201405113681M.jpg"
+      "image_url": "https://images.pexels.com/photos/5275234/pexels-photo-5275234.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "image": "green_mint.jpg"
     }
   },
   {
@@ -499,8 +499,8 @@
       "price": 23.99,
       "category": 4,
       "rating": 4.6,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0401201417083996M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0401201417083996M.jpg"
+      "image_url": "https://images.pexels.com/photos/1437774/pexels-photo-1437774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "popcorn.jpg"
     }
   },
   {
@@ -513,8 +513,8 @@
       "price": 21.99,
       "category": 2,
       "rating": 4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0828201517030241M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0828201517030241M.jpg"
+      "image_url": "https://images.pexels.com/photos/4111831/pexels-photo-4111831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "lemongrass.jpg"
     }
   },
   {
@@ -527,8 +527,8 @@
       "price": 60.99,
       "category": 2,
       "rating": 4.5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0403201417141773M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0403201417141773M.jpg"
+      "image_url": "https://images.pexels.com/photos/230490/pexels-photo-230490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "oolong.jpg"
     }
   },
   {
@@ -541,8 +541,8 @@
       "price": 41.99,
       "category": 3,
       "rating": 3.8,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0715201417203832M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0715201417203832M.jpg"
+      "image_url": "https://images.pexels.com/photos/4734729/pexels-photo-4734729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "yerba.jpg"
     }
   },
   {
@@ -555,8 +555,8 @@
       "price": 31.99,
       "category": 3,
       "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0430201405213832M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0430201405213832M.jpg"
+      "image_url": "https://images.pexels.com/photos/1592926/pexels-photo-1592926.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "elderberry.jpg"
     }
   },
   {
@@ -569,8 +569,8 @@
       "price": 41.99,
       "category": 3,
       "rating": 3,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0430201405232442M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0430201405232442M.jpg"
+      "image_url": "https://images.pexels.com/photos/5946612/pexels-photo-5946612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "vanilla_chai.jpg"
     }
   },
   {
@@ -583,8 +583,22 @@
       "price": 118.99,
       "category": 1,
       "rating": 4.7,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0519201417080443M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0519201417080443M.jpg"
+      "image_url": "https://images.pexels.com/photos/6150658/pexels-photo-6150658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "tumeric_gold.jpg"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003990737",
+      "name": "Three Cinnamon",
+      "description": "A warming bubrst of sweet and spicy cinnamon",
+      "price": 3.50,
+      "category": 1,
+      "rating": 4.9,
+      "image_url": "https://images.pexels.com/photos/1717767/pexels-photo-1717767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "image": "three_cinnamon.jpeg"
     }
   }
  
