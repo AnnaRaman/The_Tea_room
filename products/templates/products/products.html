@@ -9,7 +9,21 @@
     </div>
 {% endblock %}
 
+
+  
 {% block content %}
+<!----- dropdown for sorting --->
+  <div class="dropdown float-right pr-5">
+         <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+             Sort By
+         </a>
+
+         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+         <a class="dropdown-item" href="{% url 'products' %}?sort=price&direction=asc">Price</a>
+         <a class="dropdown-item" href="{% url 'products' %}?sort=rating&direction=desc">Rating</a>
+         <a class="dropdown-item" href="{% url 'products' %}?sort=category&direction=asc">Category</a>
+         </div>
+    </div>
     <div class="overlay"></div>
     <div class="container-fluid">
         <div class="row">
@@ -77,3 +91,5 @@
         </div>
     </div>
 {% endblock %}
+
+
