@@ -25,6 +25,7 @@ live link
 ### Wireframes
 ## Features
 ## Techonologies
+Jquery to make the sort selecter box work (products.html)
 ## Testing
 ## Deployment
 ### Local Deployment
