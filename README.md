@@ -22,6 +22,7 @@ live link
 |Know what people in my demographic are liking or purchasing           | gain an insight into which teas I may like         |
 
 ### Design
+- compressed images using tinypng
 ### Wireframes
 ## Features
 ## Techonologies
@@ -35,4 +36,6 @@ Jquery to make the sort selecter box work (products.html)
 ### Content
 teapigs website
 ### Media
+pexels
+unsplash
 ## Acknowledgements
