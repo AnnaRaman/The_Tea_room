@@ -25,6 +25,8 @@ body {
     overflow: hidden;
 }
 
+
+
 #cover-text, #cover-text h2 {
     color: #ffffff;
 }
@@ -39,15 +41,16 @@ body {
 
     padding-top: 30px;
     padding-left: 10px;
-
     background-color: rgba(211, 192, 192, 0.7);
-
-  
     
-
     position: absolute;
 
 }
+
+.top_teas {
+    padding-top: 35px;
+}
+
 
 @keyframes bg-zoom {
     from{
