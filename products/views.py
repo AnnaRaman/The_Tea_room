@@ -6,6 +6,7 @@ from .models import Product
 
 # Create your views here.
 
+
 def all_products(request):
     """ A view to show all products, including sorting and search queries """
 
@@ -33,7 +34,7 @@ def all_products(request):
             if not query:
                 messages.error(request, "You didn't search anything!")
                 return redirect(reverse('products'))
-            
+
             queries = Q(name__icontains=query) | Q(description__icontains=query)
             products = products.filter(queries)
 
