@@ -47,20 +47,12 @@ def adjust_basket(request, item_id):
 
 
 def remove_from_basket(request, item_id):
-    """Remove the item from the shopping basket"""
-
+    """Remove item from shopping basket"""
+    basket = request.session.get('basket', {})
     try:
-        size = None
-        if 'product_size' in request.POST:
-            size = request.POST['product_size']
-        basket = request.session.get('basket', {})
-
-        if size:
-            del basket[item_id]['items_by_size'][size]
-            if not basket[item_id]['items_by_size']:
-                basket.pop(item_id)
-        else:
+        if item_id in list(basket.keys()):
             basket.pop(item_id)
+
 
         request.session['basket'] = basket
         return HttpResponse(status=200)
