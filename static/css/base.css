@@ -9,7 +9,7 @@ body {
 }
 
 .homepage_image{
-    background: url('/media/homepage.jpg') no-repeat center center fixed;
+    background: url('/media/tea-cover.jpg') no-repeat center center fixed;
     background-size: cover;
     padding-bottom: 15px;
     height: calc(100vh - 164px);
@@ -23,27 +23,22 @@ body {
     height:600px;
     width: 100%;
     overflow: hidden;
+    position: relative;
 }
 
 
-
-#cover-text, #cover-text h2 {
-    color: #ffffff;
-}
 
 .cover-text {
-    font-size: 130%;
     text-transform: uppercase;
     letter-spacing: 4px;
+    color: #ffffff;
 
-    width: 300px;
-    height: 200px;
+    width: .5rem;
+    height: .5rem;
 
     padding-top: 30px;
     padding-left: 10px;
     background-color: rgba(211, 192, 192, 0.7);
-    
-    position: absolute;
 
 }
 
@@ -228,7 +223,7 @@ body {
     }
 }
 
-/* to ensure container pushes bobdy down on mobile screen */
+/* to ensure container pushes body down on mobile screen */
 @media (max-width: 991px) {
     .header-container {
         padding-top: 116px;
