@@ -5,6 +5,7 @@ from .forms import OrderForm
 from profiles.models import UserProfile
 from profiles.forms import UserProfileForm
 
+
 def checkout(request):
     basket = request.session.get('basket', {})
     if not basket:
@@ -54,8 +55,8 @@ def checkout_success(request, order_number):
         Your order number is {order_number}. A confirmation \
         email will be sent to {order.email}.')
 
-    if 'bag' in request.session:
-        del request.session['bag']
+    if 'basket' in request.session:
+        del request.session['basket']
 
     template = 'checkout/checkout_success.html'
     context = {
