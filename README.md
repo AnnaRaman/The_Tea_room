@@ -31,10 +31,18 @@ The Tearoom is an e-commerce website where you can browse and buy teas. The goal
 ### Home page
 ### Product list
 ### Product view
+### User Profile
+### Shopping basket
+### Payment
+### Admin page 
 
 ## Techonologies
 Jquery to make the sort selecter box work (products.html)
+
 ## Testing
+### HTML 
+### CSS
+### Python
 
 ## Deployment
 ### Local Deployment
