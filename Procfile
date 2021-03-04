@@ -1,1 +1,1 @@
-web: gunicorn the_teamroom.wsgi:application
+web: gunicorn django_tearoom.wsgi:application
