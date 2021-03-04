@@ -32,7 +32,14 @@ The Tearoom is an e-commerce website where you can browse and buy teas. The goal
 - The chosen colour scheme is neutral, with pastel tones for an inviting feel and to link to the idea of many herbal providing a sense of calm. 
 - compressed images using tinypng
 
+#### Typography
+- I chose to use 
+
+#### Colours
+
+
 ### Wireframes
+
 - Upon establishment of the user stories, wireframes were drawn as a reference point for the development of the site. They provide a skeleton for the site's structure and specific layout.
 - The site is fully responsive so the idea of how it would appear on both desktop and mobile have been included.
 
@@ -68,12 +75,24 @@ The wireframes for the site can be found [here](https://balsamiq.cloud/slecl1v/p
 - The shop administrator (superuser) is able to add, edit and delete products on the site. 
 
 ## Techonologies
-Jquery to make the sort selecter box work (products.html)
+
+* HTML
+* CSS
+* JS/JQuery
+* Python
+* Django framework
 
 ## Testing
+Testing of functionality was performed frequetly throughout the development of the site. Testing of the code itself HTML, CSS and Python code have been performed via online code validators.
+
 ### HTML 
+The HTML code has been tested using [W3 Markup validator](https://validator.w3.org/).
+
 ### CSS
+The CSS code has been tested using [W3 CSS validator](https://jigsaw.w3.org/css-validator/)
+
 ### Python
+The python code was tested using the [pep8 validator](http://pep8online.com/)
 
 ## Deployment
 ### Local Deployment
