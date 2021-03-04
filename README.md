@@ -29,14 +29,14 @@ The Tearoom is an e-commerce website where you can browse and buy teas. The goal
 ### Design
 
 - The purpose of the design of the website was to allow for easy navigation between pages, and have clear and concise detail about each product to encourage informed and easy decision-making in the user. 
-- The chosen colour scheme is neutral, with pastel tones for an inviting feel and to link to the idea of many herbal providing a sense of calm. 
+-  
 - compressed images using tinypng
 
 #### Typography
 - I chose to use 
 
 #### Colours
-
+The chosen colour scheme is neutral, with pastel tones for an inviting feel and to link to the idea of many herbal evoking a sense of calm.
 
 ### Wireframes
 
