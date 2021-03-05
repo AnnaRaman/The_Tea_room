@@ -12,11 +12,11 @@
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="teas-link">
                 <a href="{% url 'products' %}" class="dropdown-item">All Tea</a>
-                <a href="" class="dropdown-item">Black Tea</a>
-                <a href="" class="dropdown-item">Green Tea</a>
-                <a href="" class="dropdown-item">Herbal Tea</a>
-                <a href="" class="dropdown-item">Cold Brews</a>
-                <a href="" class="dropdown-item">Caffeine free</a>
+                <a href="{% url 'products' %}?category=black_tea" class="dropdown-item">Black Tea</a>
+                <a href="{% url 'products' %}?cateogry=green_tea" class="dropdown-item">Green Tea</a>
+                <a href="{% url 'products' %}?category=herbal_tea" class="dropdown-item">Herbal Tea</a>
+                <a href="{% url 'products' %}?category=cold_brew" class="dropdown-item">Cold Brews</a>
+                <a href="{% url 'products' %}?category=caffeine_free" class="dropdown-item">Caffeine free</a>
             </div>
         </li>
         <li class="nav-item">
