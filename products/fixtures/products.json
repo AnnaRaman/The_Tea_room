@@ -9,8 +9,8 @@
       "price": 3.99,
       "category": 1,
       "rating": 4.6,
-      "image_url": "https://images.pexels.com/photos/905485/pexels-photo-905485.jpeg?cs=srgb&dl=pexels-julia-sakelli-905485.jpg&fm=jpg",
-      "image": "pexels-julia-sakelli-905485.jpg"
+      "image_url": "https://browser-f531606a-d553-4179-8df5-823ae91b45ca.ws-eu03.gitpod.io/workspace/The_Tea_room/media/pexels-charlotte-may-5947096.jpg",
+      "image": "pexels-charlotte-may-5947096.jpg"
     }
   },
   {
@@ -24,7 +24,7 @@
       "category": 2,
       "rating": 4.6,
       "image_url": "https://images.pexels.com/photos/3522560/pexels-photo-3522560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-      "image": "chocolate_orange.jpeg"
+      "image": "pexels-ena-marinkovic-3669374.jpg"
     }
   },
   {
@@ -37,7 +37,7 @@
       "price": 205.99,
       "category": 3,
       "rating": 4.7,
-      "image_url": "https://images.pexels.com/photos/3750709/pexels-photo-3750709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260p",
+      "image_url": "https://browser-f531606a-d553-4179-8df5-823ae91b45ca.ws-eu03.gitpod.io/workspace/The_Tea_room/media/pexels-ena-marinkovic-3669374.jpg",
       "image": "gingerbread.jpg"
     }
   },
