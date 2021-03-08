@@ -3,63 +3,37 @@
 
 {% block page_header %}
 
-    <section class="bg-outer">
-        <div class="header-container homepage_image">
-        <div class="container">
-        <div class="row justify-content-end">
-                <div class="col-7 col-md-6 col-md-2 cover-text">
-                    <h5>Find a tea for your every mood</h5>
-                    <h6>Unwind, perk up or simply hydrate!</h6>
-                </div>
+<section class="bg-outer">
+   <div class="header-container homepage_image">
+      <div class="container">
+         <div class="row justify-content-end">
+            <div class="col-4 col-md-6 justify-content-center cover-text">
+               <h5>Find a tea for your every mood</h5>
+               <h6>Unwind, perk up or simply hydrate</h6>
+               <h6>All of our teas are ethically sourced, sustainably packaged and delivered, and taste delicious! </h6>
             </div>
-            </div>
-        </div>
-    </section>
-    
-<!--
-     <section id="hero-outer">
-        <div id="hero-image"></div>
-        <div id="cover-text">
-            <h2>Love Running</h2>
-            <h3>Dublin Docklands & Phoenix Park</h3>
-        </div>
-    </section>
-   -->
-    
-    <div class="container">
-        
-    </div>
+         </div>
+      </div>
+   </div>
+</section>
+
 
 {% endblock %}
 
 {% block content %}
 
-    <div class="container h-100">
-        <div class="row h-100 top_teas">
-            <div class="col-7 col-md-6 col-sm-2">
-                <h1 class="logo-font text-black">
-                    Top Teas this month!
-                </h1>
-                <div class="my-5">
-                    <h4>
-                        <a href="{% url 'products' %}" class="take-me-to-the-teas-button btn btn-lg rounded-0 text-uppercase py-3">Show me the teas</a>
-                    </h4>
-                </div>
-            </div>
-        </div>
-    </div>
-{% endblock %}  
- <div class="container h-100">
-        <div class="row h-100">
-            <div class="col-7 col-md-6 my-auto">
-                <h1 class="display-4 logo-font text-black">
-                    The new collections are here
-                </h1>
-                <div class="my-5">
-                    <h4>
-                        <a href="{% url 'products' %}" class="shop-now-button btn btn-lg rounded-0 text-uppercase py-3">Shop Now</a>
-                    </h4>
-                </div>
-            </div>
-        </div>
-    </div>
+<div class="container h-100">
+   <div class="row h-100 top_teas">
+      <div class="col-7 col-md-6 col-sm-2">
+         <h3 class="logo-font text-black">
+            Top Teas this month!
+         </h3>
+         <div class="my-5">
+            <h4>
+               <a href="{% url 'products' %}" class="take-me-to-the-teas-button btn btn-lg rounded-0 text-uppercase py-3">Show me the teas</a>
+            </h4>
+         </div>
+      </div>
+   </div>
+</div>
+{% endblock %} 
