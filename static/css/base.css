@@ -369,17 +369,61 @@ input[name='q']::placeholder {
 
 
 /* About form */
-.about1 {
-    background: url('/media/about1.jpg');
-    padding-bottom: 10rem;
-    padding-top: 10rem;
+.about1-image {
+    position: relative;
+    display: block;
+    margin-top: 13rem;
 }
 
-.about2 {
-    background: url('/media/about2.jpg')
-}
+.about1-image:before {
+      content: '';
+      display: block;
+      width: 100%;
+      padding-bottom: 66%;
+    }
+
+    .about1-image-content {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 80%;
+      height: 80%;
+      border: 5px solid #555;
+    }
+
 
 .about-info-1 {
+    padding-bottom: 10rem;
+    padding-top: 15rem;
+}
+
+
+
+.about2-image {
+    position: relative;
+    display: block;
+    margin-top: 5rem;
+    
+}
+
+.about2-image:before {
+      content: '';
+      display: block;
+      width: 100%;
+      padding-bottom: 66%;
+    }
+
+    .about2-image-content {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 80%;
+      height: 70%;
+      border: 5px solid #555;
+      
+    }
+
+    .about-info-2 {
     padding-bottom: 10rem;
     padding-top: 10rem;
 }
