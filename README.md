@@ -1,4 +1,3 @@
-index
 
 This site has been deployed to Heroku. The live link can be found [here](https://the-tearoom.herokuapp.com/)
 
@@ -44,8 +43,6 @@ product to encourage informed and easy decision-making in the user.
 
 - compressed images using [tinypng](https://tinypng.com/)
 
-#### Typography
-- I chose to use 
 
 #### Colours
 The chosen colour scheme is neutral, with pastel tones for an inviting feel and to link to the idea of many herbal evoking a sense of calm.
@@ -99,7 +96,7 @@ The wireframes for the site can be found [here](https://balsamiq.cloud/slecl1v/p
 * Django framework
 
 ## Testing
-Testing of functionality was performed frequently throughout the development of the site. Testing of the code itself HTML, CSS and Python code has been performed via online code validators.
+Testing of functionality was performed frequently throughout the development of the site, written up in the TESTING.md. Testing of the code itself HTML, CSS and Python code has been performed via online code validators.
 
 ### HTML 
 The HTML code has been tested using [W3 Markup validator](https://validator.w3.org/).
@@ -161,6 +158,7 @@ This project has been deployed from the master branch to the hosting platform, H
 ## Credits
 ### Code
 - The contact form on the contact page was developed by [Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/)
+- I learnt how to the perfrom different tasks and functions from Code Institute's lessons.
 
 ### Content
 Much of the content has been inspired by and paraphrased from the [teapigs](https://www.teapigs.co.uk/) website, such as the name of teas and the content on the about page.

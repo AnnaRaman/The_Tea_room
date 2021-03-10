@@ -19,14 +19,19 @@
 <div class="container h-100">
    <div class="row h-100 top_teas">
       <div class="col-7 col-md-6 col-sm-2">
-         <h3 class="logo-font text-black">
-            Top Teas this month!
-         </h3>
-         <div class="my-5">
+         
+         <div class="my-5 take-me-to-the-teas-button">
             <h4>
-               <a href="{% url 'products' %}" class="take-me-to-the-teas-button btn btn-lg rounded-0 text-uppercase py-3">Show me the teas</a>
+               <a href="{% url 'products' %}" class="btn btn-lg rounded-0 text-uppercase py-3">Show me the teas</a>
             </h4>
          </div>
+         <div class="row justify-content-md-center">
+            <div class="col-md-auto">
+                <h3 class="top-teas text-black">
+                    Top Teas this month
+                </h3>
+            </div>
+        </div>
       </div>
    </div>
 </div>

@@ -49,3 +49,6 @@
 - The Stripe payment works
 - All required fields have to be filled in, in order to move forward in the payemnt process.
 - If an invalid card number is entered, then the user is is prompted.
+
+### Bugs
+- Thes earch function only works on the products page
