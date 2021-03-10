@@ -1,33 +1,33 @@
 <div class="collapse navbar-collapse" id="main-nav">
-    <ul class="navbar-nav w-auto mx-auto">
-        <li class="d"></li>
-         <li class="nav-item">
-            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="{% url 'home' %}" id="home-link">
-                Home
-            </a>
-        </li>
-        <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="teas-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Teas
-            </a>
-            <div class="dropdown-menu border-0" aria-labelledby="teas-link">
-                <a href="{% url 'products' %}" class="dropdown-item">All Tea</a>
-                <a href="{% url 'products' %}?category=black_tea" class="dropdown-item">Black Tea</a>
-                <a href="{% url 'products' %}?category=green_tea" class="dropdown-item">Green Tea</a>
-                <a href="{% url 'products' %}?category=herbal_tea" class="dropdown-item">Herbal Tea</a>
-                <a href="{% url 'products' %}?category=cold_brew" class="dropdown-item">Cold Brews</a>
-                <a href="{% url 'products' %}?category=caffeine_free" class="dropdown-item">Caffeine free</a>
-            </div>
-        </li>
-        <li class="nav-item">
-            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="{% url 'about' %}" id="about-us-link">
-                About us
-            </a>
-        </li>
-         <li class="nav-item">
-            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="{% url 'contact' %}" id="contact-link">
-                Contact
-            </a>
-        </li>
-    </ul>
+   <ul class="navbar-nav w-auto mx-auto">
+      <li class="d"></li>
+      <li class="nav-item">
+         <a class="logo-font font-weight-bold nav-link text-black mr-5" href="{% url 'home' %}" id="home-link">
+         Home
+         </a>
+      </li>
+      <li class="nav-item dropdown">
+         <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="teas-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Teas
+         </a>
+         <div class="dropdown-menu border-0" aria-labelledby="teas-link">
+            <a href="{% url 'products' %}" class="dropdown-item">All Tea</a>
+            <a href="{% url 'products' %}?category=black_tea" class="dropdown-item">Black Tea</a>
+            <a href="{% url 'products' %}?category=green_tea" class="dropdown-item">Green Tea</a>
+            <a href="{% url 'products' %}?category=herbal_tea" class="dropdown-item">Herbal Tea</a>
+            <a href="{% url 'products' %}?category=cold_brew" class="dropdown-item">Cold Brews</a>
+            <a href="{% url 'products' %}?category=caffeine_free" class="dropdown-item">Caffeine free</a>
+         </div>
+      </li>
+      <li class="nav-item">
+         <a class="logo-font font-weight-bold nav-link text-black mr-5" href="{% url 'about' %}" id="about-us-link">
+         About us
+         </a>
+      </li>
+      <li class="nav-item">
+         <a class="logo-font font-weight-bold nav-link text-black mr-5" href="{% url 'contact' %}" id="contact-link">
+         Contact
+         </a>
+      </li>
+   </ul>
 </div>
