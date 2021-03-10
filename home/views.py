@@ -33,8 +33,6 @@ def all_products(request):
 
     products = Product.objects.all()
     query = None
-    sort = None
-    direction = None
 
     if request.GET:
 
@@ -53,12 +51,10 @@ def all_products(request):
             queries = Q(name__icontains=query) | Q(description__icontains=query)
             products = products.filter(queries)
 
-
-
     context = {
         'products': products,
         'search_term': query,
-        
+
     }
 
     return render(request, 'products/products.html', context)
